@@ -18,5 +18,7 @@
 <h1>Bài tập Thêm lark</h1>
 <br/>
 <a href="students">Bt01</a>
+<br/>
+<a href="https://drive.google.com/file/d/1vg_OrAuvPdN75V2ss5dAuRb4gCweuC4A/view?usp=sharing">Link Video</a>
 </body>
 </html>
